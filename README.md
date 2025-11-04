@@ -20,13 +20,23 @@ Proyek ini adalah chatbot sederhana berbasis **Next.js (App Router)** dan **Shad
    <br/>
    npm i
 
-3. **Lalu jalankan server kamu**
+3. **Configurasi Api OpenRoute**
+
+   - buat akun diopenRouter
+     <br/>
+   - lalu create key api di : https://openrouter.ai/keys
+     <br/>
+   - buat file .env lalu buat key berikut :
+     <br/>
+     OPENROUTER_API_KEY="key openRoute kamu" Contoh : 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
+
+4. **Lalu jalankan server kamu**
    <br/>
    di cmd kamu jalankan perintah ini :
    <br/>
    npm run dev
 
-4. **Masukan perintah kamu ke chatbot**
+5. **Masukan perintah kamu ke chatbot**
    <br/>
    jalankan perintah ini (opsional) :
    <br/>
