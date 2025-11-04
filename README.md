@@ -1,7 +1,6 @@
 # 💬 Next.js Chatbot App
 
-Proyek ini adalah chatbot sederhana berbasis **Next.js (App Router)** dan **ShadCN UI**, yang dapat diintegrasikan dengan berbagai model AI seperti **OpenRouter / ChatGPT**.  
-Semua konfigurasi menggunakan library gratis dan mudah di-setup.
+Proyek ini adalah chatbot sederhana berbasis **Next.js (App Router)** dan **ShadCN UI**, yang dapat diintegrasikan dengan berbagai model AI seperti **OpenRouter / ChatGPT**.
 
 ---
 
