@@ -37,7 +37,7 @@ export default function Home() {
     <div className="flex items-center justify-center min-h-screen bg-muted/40">
       <Card className="w-full max-w-md shadow-xl">
         <CardHeader>
-          <h2 className="text-xl font-semibold text-center">🤖 ChatBot Bani</h2>
+          <h2 className="text-xl font-semibold text-center">ChatBot</h2>
         </CardHeader>
         <CardContent>
           <div className="h-80 overflow-y-auto mb-4 p-2 border rounded-md bg-white">
