@@ -28,7 +28,11 @@ Proyek ini adalah chatbot sederhana berbasis **Next.js (App Router)** dan **Shad
      <br/>
    - buat file .env lalu buat key berikut :
      <br/>
-     OPENROUTER_API_KEY="key openRoute kamu" Contoh : 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
+     OPENROUTER_API_KEY="key openRoute kamu"
+     <br/>
+     Contoh :
+     <br/>
+     OPENROUTER_API_KEY=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
 
 4. **Lalu jalankan server kamu**
    <br/>
