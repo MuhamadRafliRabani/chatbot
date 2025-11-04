@@ -9,7 +9,7 @@ Semua konfigurasi menggunakan library gratis dan mudah di-setup.
 
 1. **Clone repository ini**
    <br/>
-   di cmd kamu jalankan perintah ini:
+   di cmd kamu jalankan perintah ini :
    <br/>
    git clone https://github.com/MuhamadRafliRabani/chatbot.git
    <br/>
@@ -17,20 +17,18 @@ Semua konfigurasi menggunakan library gratis dan mudah di-setup.
 
 2. **Install Package**
    <br/>
-   di cmd kamu jalankan perintah ini:
+   di cmd kamu jalankan perintah ini :
    <br/>
    npm i
 
 3. **Lalu jalankan server kamu**
    <br/>
-   di cmd kamu jalankan perintah ini:
+   di cmd kamu jalankan perintah ini :
    <br/>
-
    npm run dev
 
 4. **Masukan perintah kamu ke chatbot**
    <br/>
-   jalankan perintah ini (opsional)
+   jalankan perintah ini (opsional) :
    <br/>
-
-   Buatkan saya rekomendasi product yang pasti laku diarab
+   "Buatkan saya rekomendasi product yang pasti laku diarab"
